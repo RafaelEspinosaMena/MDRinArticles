@@ -1,0 +1,327 @@
+Annex VII
+
+4.4.   Allocation of resources
+
+The notified body shall have documented procedures to ensure that all conformity assessment activities are conducted by appropriately authorised and qualified personnel who are sufficiently experienced in the evaluation of the devices, systems and processes and related documentation that are subject to conformity assessment.
+For each application, the notified body shall determine the resources needed and identify one individual responsible for ensuring that the assessment of that application is conducted in accordance with the relevant procedures and for ensuring that the appropriate resources including personnel are utilised for each of the tasks of the assessment. The allocation of tasks required to be carried out as part of the conformity assessment and any changes subsequently made to this allocation shall be documented.
+4.5.   Conformity assessment activities
+
+4.5.1.   General
+
+The notified body and its personnel shall carry out the conformity assessment activities with the highest degree of professional integrity and the requisite technical and scientific competence in the specific fields.
+The notified body shall have expertise, facilities and documented procedures that are sufficient to effectively conduct the conformity assessment activities for which the notified body in question is designated, taking account of the relevant requirements set out in Annexes IX to XI, and in particular all of the following requirements:
+—
+appropriately plan the conduct of each individual project,
+—
+ensure that the composition of the assessment teams is such that there is sufficient experience in relation to the technology concerned, and that there is continuous objectivity and independence, and to provide for rotation of the members of the assessment team at appropriate intervals,
+—
+specify the rationale for fixing time limits for completion of conformity assessment activities,
+—
+assess the manufacturer's technical documentation and the solutions adopted to meet the requirements laid down in Annex I,
+—
+review the manufacturer's procedures and documentation relating to the evaluation of pre-clinical aspects,
+—
+review the manufacturer's procedures and documentation relating to clinical evaluation,
+—
+address the interface between the manufacturer's risk management process and its appraisal and analysis of the pre-clinical and clinical evaluation and to evaluate their relevance for the demonstration of conformity with the relevant requirements in Annex I,
+—
+carry out the specific procedures referred to in Sections 5.2 to 5.4 of Annex IX,
+—
+in the case of class IIa or class IIb devices, assess the technical documentation of devices selected on a representative basis,
+—
+plan and periodically carry out appropriate surveillance audits and assessments, carry out or request certain tests to verify the proper functioning of the quality management system and to perform unannounced on site audits,
+—
+relating to the sampling of devices, verify that the manufactured device is in conformity with the technical documentation; such requirements shall define the relevant sampling criteria and testing procedure prior to sampling,
+—
+evaluate and verify a manufacturer's compliance with relevant Annexes.
+The notified body shall, where relevant, take into consideration available CS, guidance and best practice documents and harmonised standards, even if the manufacturer does not claim to be in compliance.
+4.5.2.   Quality management system auditing
+
+(a)
+As part of the assessment of the quality management system, a notified body shall prior to an audit and in accordance with its documented procedures:
+—
+assess the documentation submitted in accordance with the relevant conformity assessment Annex, and draw up an audit programme which clearly identifies the number and sequence of activities required to demonstrate complete coverage of a manufacturer's quality management system and to determine whether it meets the requirements of this Regulation,
+—
+identify links between, and allocation of responsibilities among, the various manufacturing sites, and identify relevant suppliers and/or subcontractors of the manufacturer, and consider the need to specifically audit any of those suppliers or subcontractors or both,
+—
+clearly define, for each audit identified in the audit programme, the objectives, criteria and scope of the audit, and draw up an audit plan that adequately addresses and takes account of the specific requirements for the devices, technologies and processes involved,
+—
+draw up and keep up to date, for class IIa and class IIb devices, a sampling plan for the assessment of technical documentation as referred to in Annexes II and III covering the range of such devices covered by the manufacturer's application. That plan shall ensure that all devices covered by the certificate are sampled over the period of validity of the certificate, and
+—
+select and assign appropriately qualified and authorised personnel for conducting the individual audits. The respective roles, responsibilities and authorities of the team members shall be clearly defined and documented.
+(b)
+Based on the audit programme it has drawn up, the notified body shall, in accordance with its documented procedures:
+—
+audit the manufacturer's quality management system, in order to verify that the quality management system ensures that the devices covered conform to the relevant provisions of this Regulation which apply to devices at every stage, from design through final quality control to ongoing surveillance, and shall determine whether the requirements of this Regulation are met,
+—
+based on relevant technical documentation and in order to determine whether the manufacturer meets the requirements referred to in the relevant conformity assessment Annex, review and audit the manufacturer's processes and subsystems, in particular for:
+—
+design and development,
+—
+production and process controls,
+—
+product documentation,
+—
+purchasing controls including verification of purchased devices,
+—
+corrective and preventive actions, including for post-market surveillance, and
+—
+PMCF,
+and review and audit requirements and provisions adopted by the manufacturer, including those in relation to fulfilling the general safety and performance requirements set out in Annex I.
+The documentation shall be sampled in such a manner as to reflect the risks associated with the intended use of the device, the complexity of the manufacturing technologies, the range and classes of devices produced and any available post-market surveillance information,
+—
+if not already covered by the audit programme, audit the control of processes on the premises of the manufacturer's suppliers, when the conformity of finished devices is significantly influenced by the activity of suppliers and, in particular when the manufacturer cannot demonstrate sufficient control over its suppliers,
+—
+conduct assessments of the technical documentation based on its sampling plan and taking account of Sections 4.5.4. and 4.5.5. for pre-clinical and clinical evaluations, and
+—
+the notified body shall ensure that audit findings are appropriately and consistently classified in accordance with the requirements of this Regulation and with relevant standards, or with best practice documents developed or adopted by the MDCG.
+4.5.3.   Product verification
+
+Assessment of the technical documentation
+
+For assessment of the technical documentation conducted in accordance with Chapter II of Annex IX, notified bodies shall have sufficient expertise, facilities and documented procedures for:
+—
+the allocation of appropriately qualified and authorised personnel for the examination of individual aspects such as use of the device, biocompatibility, clinical evaluation, risk management, and sterilisation, and
+—
+the assessment of conformity of the design with this Regulation, and for taking account of Sections 4.5.4. to 4.5.6. That assessment shall include examination of the implementation by manufacturers of incoming, in-process and final checks and the results thereof. If further tests or other evidence is required for the assessment of conformity with the requirements of this Regulation, the notified body in question shall carry out adequate physical or laboratory tests in relation to the device or request the manufacturer to carry out such tests.
+Type-examinations
+
+The notified body shall have documented procedures, sufficient expertise and facilities for the type-examination of devices in accordance with Annex X including the capacity to:
+—
+examine and assess the technical documentation taking account of Sections 4.5.4. to 4.5.6., and verify that the type has been manufactured in conformity with that documentation;
+—
+establish a test plan identifying all relevant and critical parameters which need to be tested by the notified body or under its responsibility;
+—
+document its rationale for the selection of those parameters;
+—
+carry out the appropriate examinations and tests in order to verify that the solutions adopted by the manufacturer meet the general safety and performance requirements set out in Annex I. Such examinations and tests shall include all tests necessary to verify that the manufacturer has in fact applied the relevant standards it has opted to use;
+—
+agree with the applicant as to where the necessary tests will be performed if they are not to be carried out directly by the notified body; and
+—
+assume full responsibility for test results. Test reports submitted by the manufacturer shall only be taken into account if they have been issued by conformity assessment bodies which are competent and independent of the manufacturer.
+Verification by examination and testing of every product
+
+The notified body shall:
+(a)
+have documented procedures, sufficient expertise and facilities for the verification by examination and testing of every product in accordance with Part B of Annex XI;
+(b)
+establish a test plan identifying all relevant and critical parameters which need to be tested by the notified body or under its responsibility in order to:
+—
+verify, for class IIb devices, the conformity of the device with the type described in the EU type-examination certificate and with the requirements of this Regulation which apply to those devices,
+—
+confirm, for class IIa devices, the conformity with the technical documentation referred to in Annexes II and III and with the requirements of this Regulation which apply to those devices;
+(c)
+document its rationale for the selection of the parameters referred to in point (b);
+(d)
+have documented procedures to carry out the appropriate assessments and tests in order to verify the conformity of the device with the requirements of this Regulation by examining and testing every product as specified in Section 15 of Annex XI;
+(e)
+have documented procedures providing for the reaching of an agreement with the applicant concerning when and where necessary tests that are not to be carried out by the notified body itself are to be performed; and
+(f)
+assume full responsibility for test results in accordance with documented procedures; test reports submitted by the manufacturer shall only be taken into account if they have been issued by conformity assessment bodies which are competent and independent of the manufacturer.
+4.5.4.   Pre-clinical evaluation assessment
+
+The notified body shall have documented procedures in place for the review of the manufacturer's procedures and documentation relating to the evaluation of pre-clinical aspects. The notified body shall examine, validate and verify that the manufacturer's procedures and documentation adequately address:
+(a)
+the planning, conduct, assessment, reporting and, where appropriate, updating of the pre-clinical evaluation, in particular of
+—
+the scientific pre-clinical literature search, and
+—
+the pre-clinical testing, for example laboratory testing, simulated use testing, computer modelling, the use of animal models,
+(b)
+the nature and duration of body contact and the specific associated biological risks,
+(c)
+the interface with the risk management process, and
+(d)
+the appraisal and analysis of the available pre-clinical data and its relevance with regard to demonstrating conformity with the relevant requirements in Annex I.
+The notified body's assessment of pre-clinical evaluation procedures and documentation shall address the results of literature searches and all validation, verification and testing performed and conclusions drawn, and shall typically include considering the use of alternative materials and substances and take account of the packaging, stability, including shelf life, of the finished device. Where no new testing has been undertaken by a manufacturer or where there are deviations from procedures, the notified body in question shall critically examine the justification presented by the manufacturer.
+4.5.5.   Clinical evaluation assessment
+
+The notified body shall have documented procedures in place relating to the assessment of a manufacturer's procedures and documentation relating to clinical evaluation both for initial conformity assessment and on an ongoing basis. The notified body shall examine, validate and verify that manufacturers' procedures and documentation adequately address:
+—
+the planning, conduct, assessment, reporting and updating of the clinical evaluation as referred to in Annex XIV,
+—
+post-market surveillance and PMCF,
+—
+the interface with the risk management process,
+—
+the appraisal and analysis of the available data and its relevance with regard to demonstrating conformity with the relevant requirements in Annex I, and
+—
+the conclusions drawn with regard to the clinical evidence and drawing up of the clinical evaluation report.
+These procedures referred to in the first paragraph shall take into consideration available CS, guidance and best practice documents.
+The notified body's assessment of clinical evaluations as referred to in Annex XIV shall cover:
+—
+the intended use specified by the manufacturer and claims for the device defined by it,
+—
+the planning of the clinical evaluation,
+—
+the methodology for the literature search,
+—
+relevant documentation from the literature search,
+—
+the clinical investigation,
+—
+validity of equivalence claimed in relation to other devices, the demonstration of equivalence, the suitability and conclusions data from equivalent and similar devices,
+—
+post-market surveillance and PMCF,
+—
+the clinical evaluation report, and
+—
+justifications in relation to non-performance of clinical investigations or PMCF.
+In relation to clinical data from clinical investigations included within the clinical evaluation, the notified body in question shall ensure that the conclusions drawn by the manufacturer are valid in the light of the approved clinical investigation plan.
+The notified body shall ensure that the clinical evaluation adequately addresses the relevant safety and performance requirements provided for in Annex I, that it is appropriately aligned with the risk management requirements, that it is conducted in accordance with Annex XIV and that it is appropriately reflected in the information provided relating to the device.
+4.5.6.   Specific Procedures
+
+The notified body shall have documented procedures, sufficient expertise and facilities for the procedures referred to in Sections 5 and 6 of Annex IX, Section 6 of Annex X and Section 16 of Annex XI, for which they are designated.
+In the case of devices manufactured utilising tissues or cells of animal origin or their derivatives, such as from TSE susceptible species, as referred to in Regulation (EU) No 722/2012, the notified body shall have documented procedures in place that fulfil the requirements laid down in that Regulation, including for the preparation of a summary evaluation report for the relevant competent authority.
+4.6.   Reporting
+
+The notified body shall:
+—
+ensure that all steps of the conformity assessment are documented so that the conclusions of the assessment are clear and demonstrate compliance with the requirements of this Regulation and can represent objective evidence of such compliance to persons that are not themselves involved in the assessment, for example personnel in designating authorities,
+—
+ensure that records that are sufficient to provide a discernible audit trail are available for quality management system audits,
+—
+clearly document the conclusions of its assessment of clinical evaluation in a clinical evaluation assessment report, and
+—
+for each specific project, provide a detailed report which shall be based on a standard format containing a minimum set of elements determined by the MDCG.
+The report of the notified body shall:
+—
+clearly document the outcome of its assessment and draw clear conclusions from the verification of the manufacturer's conformity with the requirements of this Regulation,
+—
+make a recommendation for a final review and for a final decision to be taken by the notified body; this recommendation shall be signed off by the member of personnel responsible in the notified body, and
+—
+be provided to the manufacturer in question.
+4.7.   Final review
+
+The notified body shall prior to making a final decision:
+—
+ensure that the personnel assigned for the final review and decision-making on specific projects are appropriately authorised and are different from the personnel who have conducted the assessments,
+—
+verify that the report or reports and supporting documentation needed for decision making, including concerning resolution of non-conformities noted during assessment, are complete and sufficient with respect to the scope of the application, and
+—
+verify whether there are any unresolved non-conformities preventing issuance of a certificate.
+4.8.   Decisions and Certifications
+
+The notified body shall have documented procedures for decision-making including as regards the allocation of responsibilities for the issuance, suspension, restriction and withdrawal of certificates. Those procedures shall include the notification requirements laid down in Chapter V of this Regulation. The procedures shall allow the notified body in question to:
+—
+decide, based on the assessment documentation and additional information available, whether the requirements of this Regulation are fulfilled,
+—
+decide, based on the results of its assessment of the clinical evaluation and risk management, whether the post-market surveillance plan, including the PMCF plan, is adequate,
+—
+decide on specific milestones for further review by the notified body of the up to date clinical evaluation,
+—
+decide whether specific conditions or provisions need to be defined for the certification,
+—
+decide, based on the novelty, risk classification, clinical evaluation and conclusions from the risk analysis of the device, on a period of certification not exceeding five years,
+—
+clearly document decision making and approval steps including approval by signature of the members of personnel responsible,
+—
+clearly document responsibilities and mechanisms for communication of decisions, in particular, where the final signatory of a certificate differs from the decision maker or decision makers or does not fulfil the requirements laid down in Section 3.2.7,
+—
+issue a certificate or certificates in accordance with the minimum requirements laid down in Annex XII for a period of validity not exceeding five years and shall indicate whether there are specific conditions or limitations associated with the certification,
+—
+issue a certificate or certificates for the applicant alone and shall not issue certificates covering multiple entities, and
+—
+ensure that the manufacturer is notified of the outcome of the assessment and the resultant decision and that they are entered into the electronic system referred to in Article 57.
+4.9.   Changes and modifications
+
+The notified body shall have documented procedures and contractual arrangements with manufacturers in place relating to the manufacturers' information obligations and the assessment of changes to:
+—
+the approved quality management system or systems or to the product-range covered,
+—
+the approved design of a device,
+—
+the intended use of or claims made for the device,
+—
+the approved type of a device, and
+—
+any substance incorporated in or utilised for the manufacturing of a device and being subject to the specific procedures in accordance with Section 4.5.6.
+The procedures and contractual arrangements referred to in the first paragraph shall include measures for checking the significance of the changes referred to in the first paragraph.
+In accordance with its documented procedures, the notified body in question shall:
+—
+ensure that manufacturers submit for prior approval plans for changes as referred to in the first paragraph and relevant information relating to such changes,
+—
+assess the changes proposed and verify whether, after these changes, the quality management system, or the design of a device or type of a device, still meets the requirements of this Regulation, and
+—
+notify the manufacturer of its decision and provide a report or as applicable a supplementary report, which shall contain the justified conclusions of its assessment.
+4.10.   Surveillance activities and post-certification monitoring
+
+The notified body shall have documented procedures:
+—
+defining how and when surveillance activities of manufacturers are to be conducted. Those procedures shall include arrangements for unannounced on-site audits of manufacturers and, where applicable, subcontractors and suppliers carrying out product tests and the monitoring of compliance with any conditions binding manufacturers and associated with certification decisions, such as updates to clinical data at defined intervals,
+—
+for screening relevant sources of scientific and clinical data and post-market information relating to the scope of their designation. Such information shall be taken into account in the planning and conduct of surveillance activities, and
+—
+to review vigilance data to which they have access under Article 92(2) in order to estimate its impact, if any, on the validity of existing certificates. The results of the evaluation and any decisions taken shall be thoroughly documented.
+The notified body in question shall, upon receipt of information about vigilance cases from a manufacturer or competent authorities, decide which of the following options to apply:
+—
+not to take action on the basis that the vigilance case is clearly not related to the certification granted,
+—
+observe the manufacturer's and competent authority's activities and the results of the manufacturer's investigation so as to determine whether the certification granted is at risk or whether adequate corrective action has been taken,
+—
+perform extraordinary surveillance measures, such as document reviews, short-notice or unannounced audits and product testing, where it is likely that the certification granted is at risk,
+—
+increase the frequency of surveillance audits,
+—
+review specific products or processes on the occasion of the next audit of the manufacturer, or
+—
+take any other relevant measure.
+In relation to surveillance audits of manufacturers, the notified body shall have documented procedures to:
+—
+conduct surveillance audits of the manufacturer on at least an annual basis which shall be planned and conducted in line with the relevant requirements in Section 4.5,
+—
+ensure adequate assessment of the manufacturer's documentation on, and application of the provisions on, vigilance, the post-market surveillance, and PMCF,
+—
+sample and test devices and technical documentation, during audits, according to pre-defined sampling criteria and testing procedures to ensure that the manufacturer continuously applies the approved quality management system,
+—
+ensure that the manufacturer complies with the documentation and information obligations laid down in the relevant Annexes and that its procedures take into account best practices in the implementation of quality management systems,
+—
+ensure that the manufacturer does not use quality management system or device approvals in a misleading manner,
+—
+gather sufficient information to determine if the quality management system continues to comply with the requirements of this Regulation,
+—
+ask the manufacturer, if non-conformities are detected, for corrections, corrective actions and, where applicable, preventive actions, and
+—
+where necessary, impose specific restrictions on the relevant certificate, or suspend or withdraw it.
+The notified body shall, if listed as part of the conditions for certification:
+—
+conduct an in-depth review of the clinical evaluation as most recently updated by the manufacturer based on the manufacturer's post-market surveillance, on its PMCF and on clinical literature relevant to the condition being treated with the device or on clinical literature relevant to similar devices,
+—
+clearly document the outcome of the in-depth review and address any specific concerns to the manufacturer or impose any specific conditions on it, and
+—
+ensure that the clinical evaluation as most recently updated, is appropriately reflected in the instructions for use and, where applicable, the summary of safety and performance.
+4.11.   Re-certification
+
+The notified body shall have documented procedures in place relating to the re-certification reviews and the renewal of certificates. Re-certification of approved quality management systems or EU technical documentation assessment certificates or EU type-examination certificates shall occur at least every five years.
+The notified body shall have documented procedures relating to renewals of EU technical documentation assessment certificates and EU type-examination certificates and those procedures shall require the manufacturer in question to submit a summary of changes and scientific findings for the device, including:
+(a)
+all changes to the originally approved device, including changes not yet notified,
+(b)
+experience gained from post-market surveillance,
+(c)
+experience from risk management,
+(d)
+experience from updating the proof of compliance with the general safety and performance requirements set out in Annex I,
+(e)
+experience from reviews of the clinical evaluation, including the results of any clinical investigations and PMCF,
+(f)
+changes to the requirements, to components of the device or to the scientific or regulatory environment,
+(g)
+changes to applied or new harmonised standards, CS or equivalent documents, and
+(h)
+changes in medical, scientific and technical knowledge, such as:
+—
+new treatments,
+—
+changes in test methods,
+—
+new scientific findings on materials and components, including findings on their biocompatibility,
+—
+experience from studies on comparable devices,
+—
+data from registers and registries,
+—
+experience from clinical investigations with comparable devices.
+The notified body shall have documented procedures to assess the information referred to in the second paragraph and shall pay particular attention to clinical data from post-market surveillance and PMCF activities undertaken since the previous certification or re-certification, including appropriate updates to manufacturers' clinical evaluation reports.
+For the decision on re-certification, the notified body in question shall use the same methods and principles as for the initial certification decision. If necessary, separate forms shall be established for re-certification taking into account the steps taken for certification such as application and application review.
+

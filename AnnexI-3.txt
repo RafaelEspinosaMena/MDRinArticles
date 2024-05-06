@@ -1,0 +1,189 @@
+Annex I 
+
+CHAPTER III
+
+REQUIREMENTS REGARDING THE INFORMATION SUPPLIED WITH THE DEVICE
+
+23.   Label and instructions for use
+
+23.1.   General requirements regarding the information supplied by the manufacturer
+
+Each device shall be accompanied by the information needed to identify the device and its manufacturer, and by any safety and performance information relevant to the user, or any other person, as appropriate. Such information may appear on the device itself, on the packaging or in the instructions for use, and shall, if the manufacturer has a website, be made available and kept up to date on the website, taking into account the following:
+(a)
+The medium, format, content, legibility, and location of the label and instructions for use shall be appropriate to the particular device, its intended purpose and the technical knowledge, experience, education or training of the intended user(s). In particular, instructions for use shall be written in terms readily understood by the intended user and, where appropriate, supplemented with drawings and diagrams.
+(b)
+The information required on the label shall be provided on the device itself. If this is not practicable or appropriate, some or all of the information may appear on the packaging for each unit, and/or on the packaging of multiple devices.
+(c)
+Labels shall be provided in a human-readable format and may be supplemented by machine-readable information, such as radio-frequency identification (‘RFID’) or bar codes.
+(d)
+Instructions for use shall be provided together with devices. By way of exception, instructions for use shall not be required for class I and class IIa devices if such devices can be used safely without any such instructions and unless otherwise provided for elsewhere in this Section.
+(e)
+Where multiple devices are supplied to a single user and/or location, a single copy of the instructions for use may be provided if so agreed by the purchaser who in any case may request further copies to be provided free of charge.
+(f)
+Instructions for use may be provided to the user in non-paper format (e.g. electronic) to the extent, and only under the conditions, set out in Regulation (EU) No 207/2012 or in any subsequent implementing rules adopted pursuant to this Regulation.
+(g)
+Residual risks which are required to be communicated to the user and/or other person shall be included as limitations, contra-indications, precautions or warnings in the information supplied by the manufacturer.
+(h)
+Where appropriate, the information supplied by the manufacturer shall take the form of internationally recognised symbols. Any symbol or identification colour used shall conform to the harmonised standards or CS. In areas for which no harmonised standards or CS exist, the symbols and colours shall be described in the documentation supplied with the device.
+23.2.   Information on the label
+
+The label shall bear all of the following particulars:
+(a)
+the name or trade name of the device;
+(b)
+the details strictly necessary for a user to identify the device, the contents of the packaging and, where it is not obvious for the user, the intended purpose of the device;
+(c)
+the name, registered trade name or registered trade mark of the manufacturer and the address of its registered place of business;
+(d)
+if the manufacturer has its registered place of business outside the Union, the name of the authorised representative and address of the registered place of business of the authorised representative;
+(e)
+where applicable, an indication that the device contains or incorporates:
+—
+a medicinal substance, including a human blood or plasma derivative, or
+—
+tissues or cells, or their derivatives, of human origin, or
+—
+tissues or cells of animal origin, or their derivatives, as referred to in Regulation (EU) No 722/2012;
+(f)
+where applicable, information labelled in accordance with Section 10.4.5.;
+(g)
+the lot number or the serial number of the device preceded by the words LOT NUMBER or SERIAL NUMBER or an equivalent symbol, as appropriate;
+(h)
+the UDI carrier referred to in Article 27(4) and Part C of Annex VII;
+(i)
+an unambiguous indication of t the time limit for using or implanting the device safely, expressed at least in terms of year and month, where this is relevant;
+(j)
+where there is no indication of the date until when it may be used safely, the date of manufacture. This date of manufacture may be included as part of the lot number or serial number, provided the date is clearly identifiable;
+(k)
+an indication of any special storage and/or handling condition that applies;
+(l)
+if the device is supplied sterile, an indication of its sterile state and the sterilisation method;
+(m)
+warnings or precautions to be taken that need to be brought to the immediate attention of the user of the device, and to any other person. This information may be kept to a minimum in which case more detailed information shall appear in the instructions for use, taking into account the intended users;
+(n)
+if the device is intended for single use, an indication of that fact. A manufacturer's indication of single use shall be consistent across the Union;
+(o)
+if the device is a single-use device that has been reprocessed, an indication of that fact, the number of reprocessing cycles already performed, and any limitation as regards the number of reprocessing cycles;
+(p)
+if the device is custom-made, the words ‘custom-made device’;
+(q)
+an indication that the device is a medical device. If the device is intended for clinical investigation only, the words ‘exclusively for clinical investigation’;
+(r)
+in the case of devices that are composed of substances or of combinations of substances that are intended to be introduced into the human body via a body orifice or applied to the skin and that are absorbed by or locally dispersed in the human body, the overall qualitative composition of the device and quantitative information on the main constituent or constituents responsible for achieving the principal intended action;
+(s)
+for active implantable devices, the serial number, and for other implantable devices, the serial number or the lot number.
+23.3.   Information on the packaging which maintains the sterile condition of a device (‘sterile packaging’)
+
+The following particulars shall appear on the sterile packaging:
+(a)
+an indication permitting the sterile packaging to be recognised as such,
+(b)
+a declaration that the device is in a sterile condition,
+(c)
+the method of sterilisation,
+(d)
+the name and address of the manufacturer,
+(e)
+a description of the device,
+(f)
+if the device is intended for clinical investigations, the words ‘exclusively for clinical investigations’,
+(g)
+if the device is custom-made, the words ‘custom-made device’,
+(h)
+the month and year of manufacture,
+(i)
+an unambiguous indication of the time limit for using or implanting the device safely expressed at least in terms of year and month, and
+(j)
+an instruction to check the instructions for use for what to do if the sterile packaging is damaged or unintentionally opened before use.
+23.4.   Information in the instructions for use
+
+The instructions for use shall contain all of the following particulars:
+(a)
+the particulars referred to in points (a), (c), (e), (f), (k), (l), (n) and (r) of Section 23.2;
+(b)
+the device's intended purpose with a clear specification of indications, contra-indications, the patient target group or groups, and of the intended users, as appropriate;
+(c)
+where applicable, a specification of the clinical benefits to be expected.
+(d)
+where applicable, links to the summary of safety and clinical performance referred to in Article 32;
+(e)
+the performance characteristics of the device;
+(f)
+where applicable, information allowing the healthcare professional to verify if the device is suitable and select the corresponding software and accessories;
+(g)
+any residual risks, contra-indications and any undesirable side-effects, including information to be conveyed to the patient in this regard;
+(h)
+specifications the user requires to use the device appropriately, e.g. if the device has a measuring function, the degree of accuracy claimed for it;
+(i)
+details of any preparatory treatment or handling of the device before it is ready for use or during its use, such as sterilisation, final assembly, calibration, etc., including the levels of disinfection required to ensure patient safety and all available methods for achieving those levels of disinfection;
+(j)
+any requirements for special facilities, or special training, or particular qualifications of the device user and/or other persons;
+(k)
+the information needed to verify whether the device is properly installed and is ready to perform safely and as intended by the manufacturer, together with, where relevant:
+—
+details of the nature, and frequency, of preventive and regular maintenance, and of any preparatory cleaning or disinfection,
+—
+identification of any consumable components and how to replace them,
+—
+information on any necessary calibration to ensure that the device operates properly and safely during its intended lifetime, and
+—
+methods for eliminating the risks encountered by persons involved in installing, calibrating or servicing devices;
+(l)
+if the device is supplied sterile, instructions in the event of the sterile packaging being damaged or unintentionally opened before use;
+(m)
+if the device is supplied non-sterile with the intention that it is sterilised before use, the appropriate instructions for sterilisation;
+(n)
+if the device is reusable, information on the appropriate processes for allowing reuse, including cleaning, disinfection, packaging and, where appropriate, the validated method of re-sterilisation appropriate to the Member State or Member States in which the device has been placed on the market. Information shall be provided to identify when the device should no longer be reused, e.g. signs of material degradation or the maximum number of allowable reuses;
+(o)
+an indication, if appropriate, that a device can be reused only if it is reconditioned under the responsibility of the manufacturer to comply with the general safety and performance requirements;
+(p)
+if the device bears an indication that it is for single use, information on known characteristics and technical factors known to the manufacturer that could pose a risk if the device were to be re-used. This information shall be based on a specific section of the manufacturer's risk management documentation, where such characteristics and technical factors shall be addressed in detail. If in accordance with point (d) of Section 23.1. no instructions for use are required, this information shall be made available to the user upon request;
+(q)
+for devices intended for use together with other devices and/or general purpose equipment:
+—
+information to identify such devices or equipment, in order to obtain a safe combination, and/or
+—
+information on any known restrictions to combinations of devices and equipment;
+(r)
+if the device emits radiation for medical purposes:
+—
+detailed information as to the nature, type and where appropriate, the intensity and distribution of the emitted radiation,
+—
+the means of protecting the patient, user, or other person from unintended radiation during use of the device;
+(s)
+information that allows the user and/or patient to be informed of any warnings, precautions, contra-indications, measures to be taken and limitations of use regarding the device. That information shall, where relevant, allow the user to brief the patient about any warnings, precautions, contra-indications, measures to be taken and limitations of use regarding the device. The information shall cover, where appropriate:
+—
+warnings, precautions and/or measures to be taken in the event of malfunction of the device or changes in its performance that may affect safety,
+—
+warnings, precautions and/or measures to be taken as regards the exposure to reasonably foreseeable external influences or environmental conditions, such as magnetic fields, external electrical and electromagnetic effects, electrostatic discharge, radiation associated with diagnostic or therapeutic procedures, pressure, humidity, or temperature,
+—
+warnings, precautions and/or measures to be taken as regards the risks of interference posed by the reasonably foreseeable presence of the device during specific diagnostic investigations, evaluations, or therapeutic treatment or other procedures such as electromagnetic interference emitted by the device affecting other equipment,
+—
+if the device is intended to administer medicinal products, tissues or cells of human or animal origin, or their derivatives, or biological substances, any limitations or incompatibility in the choice of substances to be delivered,
+—
+warnings, precautions and/or limitations related to the medicinal substance or biological material that is incorporated into the device as an integral part of the device; and
+—
+precautions related to materials incorporated into the device that contain or consist of CMR substances or endocrine-disrupting substances, or that could result in sensitisation or an allergic reaction by the patient or user;
+(t)
+in the case of devices that are composed of substances or of combinations of substances that are intended to be introduced into the human body and that are absorbed by or locally dispersed in the human body, warnings and precautions, where appropriate, related to the general profile of interaction of the device and its products of metabolism with other devices, medicinal products and other substances as well as contra-indications, undesirable side-effects and risks relating to overdose;
+(u)
+in the case of implantable devices, the overall qualitative and quantitative information on the materials and substances to which patients can be exposed;
+(v)
+warnings or precautions to be taken in order to facilitate the safe disposal of the device, its accessories and the consumables used with it, if any. This information shall cover, where appropriate:
+—
+infection or microbial hazards such as explants, needles or surgical equipment contaminated with potentially infectious substances of human origin, and
+—
+physical hazards such as from sharps.
+If in accordance with the point (d) of Section 23.1 no instructions for use are required, this information shall be made available to the user upon request;
+(w)
+for devices intended for use by lay persons, the circumstances in which the user should consult a healthcare professional;
+(x)
+for the devices covered by this Regulation pursuant to Article 1(2), information regarding the absence of a clinical benefit and the risks related to use of the device;
+(y)
+date of issue of the instructions for use or, if they have been revised, date of issue and identifier of the latest revision of the instructions for use;
+(z)
+a notice to the user and/or patient that any serious incident that has occurred in relation to the device should be reported to the manufacturer and the competent authority of the Member State in which the user and/or patient is established;
+(aa)
+information to be supplied to the patient with an implanted device in accordance with Article 18;
+(ab)
+for devices that incorporate electronic programmable systems, including software, or software that are devices in themselves, minimum requirements concerning hardware, IT networks characteristics and IT security measures, including protection against unauthorised access, necessary to run the software as intended.
